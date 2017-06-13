@@ -16,9 +16,9 @@
     "archy": "^1.0.0",
     "chalk": "^1.1.0",
     "glob": "^5.0.14",
-    "lodash": "^3.10.0",
-    "mincer": "1.5.0",
-    "node-sass": "^3.2.0",
+    "lodash": "*",
+    "mincer": "*",
+    "node-sass": "*",
     "slash": "^1.0.0"
   },
   "devDependencies": {}
