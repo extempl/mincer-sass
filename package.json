@@ -10,7 +10,7 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/extempl/mincer-sass.git"
+    "url": "git://github.com/slate-studio/mincer-sass.git"
   },
   "dependencies": {
     "archy": "^1.0.0",
@@ -19,7 +19,7 @@
     "lodash": "*",
     "mincer": "*",
     "mq4-hover-shim": "^0.3.0",
-    "node-sass": "*",
+    "node-sass": "^3.13.1",
     "slash": "^1.0.0"
   },
   "devDependencies": {}
