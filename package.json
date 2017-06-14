@@ -19,7 +19,7 @@
     "lodash": "*",
     "mincer": "*",
     "mq4-hover-shim": "^0.3.0",
-    "node-sass": "^3.13.1",
+    "node-sass": "*",
     "slash": "^1.0.0"
   },
   "devDependencies": {}
